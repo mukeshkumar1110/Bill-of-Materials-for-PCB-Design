@@ -1,7 +1,7 @@
 # Bill-of-Materials-for-PCB-Design
 # Aim
 
-To prepare the Bill of Material for the given circuit.
+To prepare the Bill of Material for wireless power transfer-receiver.
 
 # Software’s required
 
